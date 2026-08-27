@@ -4,5 +4,5 @@
 
 ## 内容
 
-- `memory/second-brain.md`：《量潮第二大脑章程》——第二大脑资产图式（九宫格资产类型，务虚层定义）；仓库命名规则见资产章程（quanttide-bylaw-of-asset-management/schema/repo-naming.md）
+- `memory/second-brain.md`：《量潮第二大脑章程》——第二大脑资产图式（九宫格资产类型，务虚层定义）；仓库命名规则见资产章程（quanttide-bylaw-of-asset-management/schema/second-brain.md）
 

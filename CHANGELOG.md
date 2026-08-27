@@ -14,4 +14,4 @@
 
 ### 变更
 
-- 仓库命名规则迁出至资产章程（quanttide-bylaw-of-asset-management/schema/repo-naming.md）；文件路径移至 `memory/`
+- 仓库命名规则迁出至资产章程（quanttide-bylaw-of-asset-management/schema/second-brain.md）；文件路径移至 `memory/`
