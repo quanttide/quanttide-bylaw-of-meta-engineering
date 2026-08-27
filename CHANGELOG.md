@@ -10,4 +10,8 @@
 
 ### 新增
 
-- `second-brain.md`：《量潮第二大脑章程》（第二大脑资产图式与 GitHub 仓库命名规则）
+- `memory/second-brain.md`：《量潮第二大脑章程》（第二大脑资产图式，务虚层定义）
+
+### 变更
+
+- 仓库命名规则迁出至资产章程（quanttide-bylaw-of-asset-management/schema/repo-naming.md）；文件路径移至 `memory/`

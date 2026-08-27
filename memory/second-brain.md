@@ -48,20 +48,8 @@
 | 现在 | Journal 工作日志 | Profile 工作档案 | Brochure 宣传册 |
 | 未来 | Roadmap 路线图 | Insight 工作洞察 | Intention 工作意图 |
 
-## 第六章 仓库命名
+## 第六章 附则
 
-**第十四条** 领域仓库命名：`quanttide-{领域短名}`，如 `quanttide-agent`、`quanttide-crowd`、`quanttide-learn`。
+**第十四条** 本资产类型定义由资产治理团队维护和修订。
 
-**第十五条** 资产子仓库命名：`quanttide-{资产类型}-of-{领域英文名}`，如 `quanttide-journal-of-crowd-sourcing`、`quanttide-bylaw-of-document-engineering`；法人主体资产使用 `quanttide-{资产类型}-of-business-entity`，如 `quanttide-profile-of-business-entity`。
-
-**第十六条** 聚合容器命名：`quanttide-{资产类型}`，如 `quanttide-journal`、`quanttide-profile`、`quanttide-roadmap`、`quanttide-bylaw`。
-
-**第十七条** 应用与工具命名：应用使用 `qt{产品名}` 或 `qtcloud-{产品名}`，如 `qtcrowd`、`qtclass`、`qtcloud-learn`；工具集使用 `quanttide-{领域}-toolkit`，如 `quanttide-crowd-toolkit`。
-
-**第十八条** 领域仓库内挂载路径：`apps/` 挂应用，`packages/` 挂工具集，`examples/default` 挂实验室（`quanttide-laboratory-of-{领域英文名}`），`data/` 与 `docs/` 按资产类型挂载对应子仓库。
-
-## 第七章 附则
-
-**第十九条** 本资产类型定义与仓库命名规则由资产治理团队维护和修订。
-
-**第二十条** 任何格子中资产类型的变更须经审议后方可执行，以保证九宫格结构的一致性与完整性。
+**第十五条** 任何格子中资产类型的变更须经审议后方可执行，以保证九宫格结构的一致性与完整性。
