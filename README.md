@@ -4,5 +4,5 @@
 
 ## 内容
 
-- `memory/second-brain.md`：《量潮第二大脑章程》——第二大脑资产图式（九宫格资产类型，务虚层定义）；仓库命名规则见资产章程（quanttide-bylaw-of-asset-management/schema/public-second-brain.md）
+- 暂无。原《量潮第二大脑章程》已迁至案例集 `docs/gallery/category/index.md`（《量潮标准范畴》）；仓库命名规则见资产章程（quanttide-bylaw-of-asset-management/schema/public-second-brain.md）
 
